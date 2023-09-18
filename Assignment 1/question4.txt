@@ -1,0 +1,6 @@
+Q4.write a short note on tag and element with an example?
+Ans- An HTML tag is a keyword surrounded by angle brackets(<>).It is used to identify the start and end of an HTML element.
+Like p tag
+<p> This is paragraph </p>
+The <p> tag is the start tag and the </p> tag is the end tag.
+

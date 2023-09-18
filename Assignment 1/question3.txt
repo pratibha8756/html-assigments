@@ -1,0 +1,8 @@
+Q3.Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.
+Arrange these elements to create a simple web page layout?
+Ans- heading h1 to h6 <h1>_____</h1>
+Paragraph tag <p> ____ </p>
+Horizontal line <hr> 
+Line break <br>
+
+all tag practicl in question1.html
